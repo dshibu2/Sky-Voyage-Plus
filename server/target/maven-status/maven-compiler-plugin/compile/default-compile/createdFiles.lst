@@ -1,0 +1,5 @@
+com/myFlights/repository/AirportRepository.class
+com/myFlights/FlightApplication.class
+com/myFlights/entity/FlightInfo.class
+com/myFlights/entity/Airport.class
+com/myFlights/repository/FlightInfoRepository.class

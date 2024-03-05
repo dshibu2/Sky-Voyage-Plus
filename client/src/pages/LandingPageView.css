@@ -1,0 +1,15 @@
+
+
+.inner-search-form {
+    padding: 10px;
+}
+h3 {
+    color: rgb(15, 143, 15);
+}
+
+.recommendations {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
